@@ -46,14 +46,14 @@
 
     <div align="center">
         <h3>📊 GitHub Stats:</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=hasan-sh1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-sh1&theme=radical" alt="GitHub Streak"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-sh1&layout=compact&theme=radical" alt="Top Languages"/>
     </div>
 
     <div align="center">
         <h3>🏆 GitHub Trophies</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=hasan-sh1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
     </div>
 
     <!-- Programming Languages -->
@@ -143,8 +143,8 @@
     </div>
 
     <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-        <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers"/>
+        <img src="https://komarev.com/ghpvc/?username=hasan-sh1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+        <img src="https://img.shields.io/github/followers/hasan-sh1?label=Followers&style=social" alt="followers"/>
     </div>
 
 </body>
