@@ -1,4 +1,12 @@
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Hasan Shhade</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Hi <span class="wave">👋</span>, I'm Hasan Shhade</h1>
 <style>
 .wave {
     animation: wave-animation 2.5s infinite;
@@ -235,16 +243,7 @@
     }
 </script>
 
-<div align="center">
-    <h3>🚀 Featured Projects</h3>
-    <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME&theme=radical" />
-    </a>
-    <!-- يمكنك إضافة المزيد من المشاريع بنفس الطريقة -->
-</div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers"/>
-</div>
 
+</body>
+</html>
