@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineer;Frontend+Developer;Always+learning+new+things;Welcome+to+my+GitHub+Profile+✨" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineer;Website+Developer;Always+learning+new+things;Welcome+to+my+GitHub+Profile+✨" alt="Typing SVG">
   </a>
 </p>
 
-### <div align="center">A passionate frontend developer from Syria</div>
+### <div align="center">A passionate Website developer from Syria</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
@@ -20,18 +20,19 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hasnshhade11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/yournumber">
+  <a href="https://wa.me/+44 7859 340105">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/hasan-shhade-281455352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://t.me/U_Q_Y3">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
 </p>
 
 ### 📊 GitHub Stats:
